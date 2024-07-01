@@ -20,17 +20,17 @@
     background-color: rgba(0, 0, 0, 0.2);
 }
 .mission__container .background.one {
-    background-image: url(../Home/Assets/p1.jpg.webp);
+    background-image: url(../Home/Assets/p1.webp);
 }
 .mission__container .background.two {
-    background-image: url(../Home/Assets/p1.jpg.webp);
+    background-image: url(../Home/Assets/p2.webp);
 }
 .mission__container .background.three {
-    background-image: url(../Home/Assets/p1.jpg.webp);
+    background-image: url(../Home/Assets/p3.webp);
 }
 .mission__container .background.four {
-    background-image: url(../Home/Assets/p1.jpg.webp);
+    background-image: url(../Home/Assets/p4.webp);
 }
 .mission__container .background.five {
-    background-image: url(../Home/Assets/p1.jpg.webp);
+    background-image: url(../Home/Assets/p5.webp);
 }
