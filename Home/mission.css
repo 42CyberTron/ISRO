@@ -1,0 +1,36 @@
+.mission__container {
+    height: 100vh;
+}
+
+.mission__container .background {
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.mission__container .background::after{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+.mission__container .background.one {
+    background-image: url(../Home/Assets/p1.jpg.webp);
+}
+.mission__container .background.two {
+    background-image: url(../Home/Assets/p1.jpg.webp);
+}
+.mission__container .background.three {
+    background-image: url(../Home/Assets/p1.jpg.webp);
+}
+.mission__container .background.four {
+    background-image: url(../Home/Assets/p1.jpg.webp);
+}
+.mission__container .background.five {
+    background-image: url(../Home/Assets/p1.jpg.webp);
+}
