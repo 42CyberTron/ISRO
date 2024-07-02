@@ -1,4 +1,9 @@
 const missons = document.querySelectorAll('.mission__container')
+const hamburger = document.querySelector('.hamburger')
+const IS_ACTIVE = 'is-active'
+hamburger.addEventListener('click',() => {
+	hamburger.classList.toggle(IS_ACTIVE)
+})
 
 const missionObserver = new IntersectionObserver(
 	(entries) => {
