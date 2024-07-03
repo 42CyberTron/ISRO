@@ -10,7 +10,7 @@
 	}
 
 	.header .header__logo a {
-		width: 2rem;
+		width: 10rem;
 	}
 
 	.footer .footer__list {
@@ -60,7 +60,7 @@
         margin-right: 2rem;
     }
     .header .header__logo a {
-        width: 2.8rem;
+        width: 10rem;
     }
     .navigation__menu {
         max-width: 30rem;
